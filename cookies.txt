@@ -1,5 +1,5 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-www.friv5today.com	TRUE	/	FALSE	1999999999	PHPSESSID	256d59fb1df0d63a84c69d01bf6b8c88
-.friv5today.com	TRUE	/	FALSE	1999999999	__cfduid	d15090e1ebecbf5ed62f5916e8a760b4e1467910911
+friv200.tua.one	TRUE	/	FALSE	1999999999	PHPSESSID	256d59fb1df0d63a84c69d01bf6b8c88
+.Friv200.tua.one	TRUE	/	FALSE	1999999999	__cfduid	d15090e1ebecbf5ed62f5916e8a760b4e1467910911
 
