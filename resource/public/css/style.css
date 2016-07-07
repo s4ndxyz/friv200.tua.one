@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color:#369;color:#292929;font-family: Arial,Helvetica,sans-serif;font-size:12px;}
+a:link, a:visited {color: #0079C1;text-decoration: none;}
+.dblock{display:block;}
+.fleft{float:left;margin-left: 10px;}
+.fright{float:right;}
+.clearAll{clear:both;height:0;}

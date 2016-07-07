@@ -1,0 +1,52 @@
+@import url(http://fonts.googleapis.com/css?family=Pathway+Gothic+One);
+@import url(http://fonts.googleapis.com/css?family=Fascinate+Inline);
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(http://fonts.googleapis.com/css?family=Condiment);
+div#wrapper{height:auto;width:100%}div#wrapper .toolbar{-moz-box-shadow:1px 0 5px #285685;-webkit-box-shadow:1px 0 5px #285685;background:url(../images/50.png) repeat top left;border-bottom:#0d2f5e solid 1px;box-shadow:1px 0 5px #285685;height:35px;margin:0 auto;padding-right:10px;position:relative}div#wrapper .toolbar .order{color:#3779d6;font-family:"Comic Sans MS", cursive;font-size:12px;font-weight:700;height:35px;line-height:40px;padding-left:25px;padding-right:25px;text-shadow:#000 1px 1px 2px;transition:all 300ms linear}div#wrapper .toolbar .order-active{-webkit-box-shadow:0 -1px 5px #285685;background-color:#20549e;border-left:#0d2f5e solid 1px;border-right:#0d2f5e solid 1px;border-top:#0d2f5e solid 1px;border-top-left-radius:2px;border-top-right-radius:2px;box-shadow:0 -1px 5px #285685;color:#FFF;font-family:"Comic Sans MS", cursive;font-size:12px;font-weight:700;height:30px;line-height:30px;margin-right:0;margin-top:5px;padding-left:12px;padding-right:12px;text-shadow:#051933 0 0 2px}div#wrapper .toolbar .order:hover{color:#6ca3f0}
+div#wrapper .toolbar .logo h1{
+	height:70px;
+	overflow:hidden;
+	position:absolute;
+	float:left;
+	font-size:30px;
+	margin:0px auto auto 10px;
+	font-family: 'Fascinate Inline', cursive;
+	color: ##6884AE;
+	text-shadow: 1px 3px #000;
+	text-decoration:none}
+		.logo h1:first-letter{
+			font-size:45px;
+			text-shadow:1px 3px #000}
+		.logo h1 sub {
+			font-family: 'Shadows Into Light', cursive;
+			font-size: 40px;
+			color: #FFF;
+			text-shadow: 1px 1px #000;}	
+			.logo h2{
+				margin:10px 10px 5px 180px;
+				text-decoration:none;
+				color:#1e2e4f;
+				text-shadow: 1px 1px #1B52A0;
+				font-family: 'Condiment', cursive;
+				font-size:20px}
+				.logo a{text-decoration:none; }
+		li.linkseo{float: right;margin-top:5px;}
+		li.linkseo a{background-color: #234c89;
+					padding-left: 10px;
+					padding-right: 10px;
+					line-height: 25px;
+					display: block;
+					float: left;
+					border-left: #356594 solid 1px;
+					border-right: #0e2e4d solid 1px;
+					transition: all 300ms linear;
+					text-shadow: #333 1px 1px 1px;}
+		li.linkseo a:last-child{border-top-right-radius: 2em;
+				border-bottom-right-radius: 2em;
+				border-right: 0;}
+			li.linkseo a:first-child {
+				border-top-left-radius: 2em;
+				border-bottom-left-radius: 2em;
+				border-left: 0;}
+		li.linkseo a:hover{background-color:#215096}	
+div#wrapper .toolbar .box-search{-moz-border-radius:2em;-webkit-border-radius:2em;-webkit-box-shadow:0 1px 2px #133d70;background-color:#2157a3;border:#3468b0 solid 2px;border-radius:2em;box-shadow:0 1px 2px #133d70;color:#4b84cf;font-family:"Comic Sans MS", cursive;font-size:14px;height:28px;margin:5px 9px 9px 10px;padding-left:20px;padding-right:20px;text-shadow:#19488a 1px 1px 2px;transition:all 300ms ease-in-out}div#wrapper .toolbar .box-search:focus{-moz-outline:none;background-color:#275da8;border:#184a87 solid 2px;color:#6b9ee0;outline:none}div#wrapper ul.body{height:auto;margin:15px 7px 8px}
